@@ -8,7 +8,7 @@ To download it on your computer:
 
 2. Go into File>New Project>Version Control>Git, Clone a project from a Git repository
 
-3.Add the following Repository URL into the Repository URK space:
+3.Add the following Repository URL into the Repository URL space:
 https://github.com/ludemannc/PPS_data_management
 
 4: Add your own name to the Project directory name
